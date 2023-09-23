@@ -1,6 +1,6 @@
 👋<h1>Olá, eu sou a Sara Barbosa!</h1>
 
-- <h2> Essas são as Habilidades que estou aprendendo atualmente</h2>
+- <h2> Essas são as habilidades que estou aprendendo atualmente</h2>
   <div>
 <img align="center" alt="Sara-HTML" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
